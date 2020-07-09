@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Let's try a raw svg! 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> 
+<img src="https://nethistorian.files.wordpress.com/2013/07/underconstruction.gif" width="512" /> 
 
 <!--
 **edent/edent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
