@@ -1,1 +1,1 @@
-![Terence Eden's about me card.](https://edent.tel/avatar)
+![Terence Eden's about me card.](./github-header-image.png)
